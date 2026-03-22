@@ -1,7 +1,7 @@
 # QMLHEP GSoC 2026 — Evaluation Tasks
 
 ## About Me
-I am a beginner Python developer interested in 
+I am a Python developer interested in 
 Quantum Machine Learning. I am applying for the
 QMLHEP project under ML4SCI GSoC 2026.
 
