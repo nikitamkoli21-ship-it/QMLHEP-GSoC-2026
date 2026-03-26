@@ -9,12 +9,12 @@ QMLHEP project under ML4SCI GSoC 2026.
 - ✅ Task I — Quantum Computing (PennyLane)
 - ✅ Task II — Classical GNN (Quark/Gluon classification)
 - ✅ Task III — Open Task (QML discussion)
+- ✅ Task IV — QGAN
 - ✅ Task V — Quantum GNN
 - ✅ Task VI — Quantum Representation Learning
 - ✅ Task VIII — Vision Transformer on MNIST
 - ✅ Task IX — KAN on MNIST
 - ✅ Task XI — MLP + PQC
-- ✅ Task IV — QGAN
 - ✅ Task XII — RL + PQC
 
 ## Project Interest
